@@ -1,0 +1,11 @@
+/home/spi_729-1/Документы/Test/lib, be1790fe9ff9a32aa228a75172b9d0018db738fefa6a50c9aa453d8e86694720
+/home/spi_729-1/Документы/Test/lib/.vboxclient-seamless.pid, d45faf8a86401cc82dd4b15dd568cbdb1ed2b54750e3e415cb968593d411798d
+/home/spi_729-1/Документы/Test/lib/.gitconfig, dc02d7924321842b21ead31a00ac096ef7c0510aba9181548b5e97525b5c9ca6
+/home/spi_729-1/Документы/Test/lib/.vboxclient-clipboard.pid, c5aeba7f7b48e1efc2d73205a4e08c186a7adba1063902c8077d4a999c881a26
+/home/spi_729-1/Документы/Test/lib/hello.py, aedc411af70dad525f899c46ed73a918e9d48868cb551dd21f9631829d1fb05d
+/home/spi_729-1/Документы/Test/lib/.profile, 28b4a453b68dde64f814e94bab14ee651f4f162e15dd9920490aa1d49f05d2a4
+/home/spi_729-1/Документы/Test/lib/sum.py, ce5a065566f4649c6f9640ee65c8ab2c70e7b4ed831737b5b569f9d8447fec7d
+/home/spi_729-1/Документы/Test/lib/.vboxclient-vmsvga-session-tty2.pid, 0b01b4bab691bd23c461d2b93ce7441379433bd30958ecf813395de4a0ee5495
+/home/spi_729-1/Документы/Test/lib/.vboxclient-draganddrop.pid, c2bf55a53fd233e69b5c6514c4ed67d74f018326c9e5c43c68f865551000d16a
+/home/spi_729-1/Документы/Test/lib/.python_history, 866f9dea997a11e835ffd9ef2e1bd40bf51154043b8d029fcd5a19b7486ff4ea
+/home/spi_729-1/Документы/Test/lib/.sudo_as_admin_successful, e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
